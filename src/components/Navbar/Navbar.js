@@ -4,7 +4,7 @@ import Header from '../../assets/Header.png';
 
 const Navbar = () => {
   return (
-    <div>
+    <div className='navbar'>
       <img src={Header} alt="navbar"/>
     </div>
   )
